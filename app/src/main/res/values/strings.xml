@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="category_screen">Categories</string>
+    <string name="place_screen">Places</string>
+    <string name="back_button">Back</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+
+    <string name="coffee_shop_category">Coffee shops</string>
+    <string name="cafe1_name">Café Start</string>
+    <string name="cafe2_name">Savonlinnan Herkku Pekka Pullapuoti Oy</string>
+    <string name="cafe3_name">Kahvila Leivintupa</string>
+    <string name="cafe4_name">Kahvila Joeli</string>
+    <string name="cafe1_phone">044 723 0290</string>
+    <string name="cafe2_phone">015 514999</string>
+    <string name="cafe3_phone">040 3100 995</string>
+    <string name="cafe4_phone">044 4174229</string>
+    <string name="cafe1_address">Olavinkatu 44</string>
+    <string name="cafe2_address">olavinkatu 53</string>
+    <string name="cafe3_address">Kirkkokatu 8</string>
+    <string name="cafe4_address">Asemantie 5</string>
+    <string name="cafe1_description">Great cakes and other basic pastries. They also offer lunch, and of couse, a variety of coffees.</string>
+    <string name="cafe2_description">Cakes, special breads, custom-made pastries and lunch.</string>
+    <string name="cafe3_description">Cakes, special breads, lörtsyt, pizza, custom-made pastries, salty pastries.</string>
+    <string name="cafe4_description">Salty pastries, pizza, custom-made pastries, salty pastries, cakes.</string>
+
+
+    <string name="restaurants_category">Restaurants</string>
+    <string name="restaurant1_name">Ravintola Majakka</string>
+    <string name="restaurant2_name">Perlina di Castello</string>
+    <string name="restaurant3_name">Muikkuterassi Savonlinna</string>
+    <string name="restaurant4_name">Panimoravintola Huvila</string>
+    <string name="restaurant5_name">Wang Fu Avoin yhtiö</string>
+    <string name="restaurant6_name">Kiinalainen Ravintola Zhong Guo Long</string>
+    <string name="restaurant1_phone">+358 10 764 2430</string>
+    <string name="restaurant2_phone">+358 10 764 2440</string>
+    <string name="restaurant3_phone">+358 10 764 2445</string>
+    <string name="restaurant4_phone">015 555 0 555</string>
+    <string name="restaurant5_phone">041 3133252</string>
+    <string name="restaurant6_phone">015 514155</string>
+    <string name="restaurant1_address">Satamakatu 11</string>
+    <string name="restaurant2_address">Kauppatori 4–6</string>
+    <string name="restaurant3_address">Kauppatori 4–6</string>
+    <string name="restaurant4_address">Puistokatu 4</string>
+    <string name="restaurant5_address">Olavinkatu 46</string>
+    <string name="restaurant6_address">Olavinkatu 33</string>
+    <string name="restaurant1_description">Finnish dish with some international flavors</string>
+    <string name="restaurant2_description">Pizza made with genuine pizza oven, other Finnish dishes</string>
+    <string name="restaurant3_description">Fish dishes/snacks, bar drinks </string>
+    <string name="restaurant4_description">Restaurant bar </string>
+    <string name="restaurant5_description">Chinese restaurant </string>
+    <string name="restaurant6_description">Chinese restaurant, buffet, sushi-buffet, Chinese liquors</string>
+
+    <string name="kid_friendly_places_category">Kid-friendly places</string>
+    <string name="kid_friendly1_name">Olavinlinna castle</string>
+    <string name="kid_friendly2_name">Savonlinna provincial museum </string>
+    <string name="kid_friendly3_name">Savonlinna market square</string>
+    <string name="kid_friendly4_name">s/s Punkaharju</string>
+    <string name="kid_friendly1_phone">029 5336942</string>
+    <string name="kid_friendly2_phone">044 417 4466</string>
+    <string name="kid_friendly3_phone">044 4174621</string>
+    <string name="kid_friendly4_phone">+358 50 529 9512</string>
+    <string name="kid_friendly1_address">Olavinlinna</string>
+    <string name="kid_friendly2_address">Riihisaari</string>
+    <string name="kid_friendly3_address">Kauppatori</string>
+    <string name="kid_friendly4_address">Tienpolvi 8</string>
+    <string name="kid_friendly1_description">Medieval castle</string>
+    <string name="kid_friendly2_description">Museum displaying the history of the area </string>
+    <string name="kid_friendly3_description">Market square, always open. Sometimes a lot of sellers selling miscellaneous stuff ranging from clothing to food. In summer, international sellers also go there to sell their specialties. </string>
+    <string name="kid_friendly4_description">A cruise steam ship operating in summer</string>
+
+    <string name="parks_category">Parks</string>
+    <string name="parks1_name">Marja-Liisa Vartion Puisto</string>
+    <string name="parks2_name">Pikku Kakkosen leikkipuisto</string>
+    <string name="parks3_name">Kellarpellon koirapuisto</string>
+    <string name="parks1_phone"></string>
+    <string name="parks2_phone"></string>
+    <string name="parks3_phone"></string>
+    <string name="parks1_address">Kylpylaitoksentie 2</string>
+    <string name="parks2_address">Erik Laxmannin puistotie</string>
+    <string name="parks3_address">Samusalontie 12a/Aapelintie 13, Kellarpelto </string>
+    <string name="parks1_description">Fishing, walking, jogging. </string>
+    <string name="parks2_description">Fishing, walking, jogging, parking slot for boats, jungle gym, basic playing ground for children </string>
+    <string name="parks3_description">A dog park </string>
+
+    <string name="shopping_center_category">Shopping centers</string>
+    <string name="shopping1_name">Kristalli shopping</string>
+    <string name="shopping2_name">K-citymarket Savonlinna</string>
+    <string name="shopping3_name">Prisma Savonlinna</string>
+    <string name="shopping1_phone"></string>
+    <string name="shopping2_phone"></string>
+    <string name="shopping3_phone"></string>
+    <string name="shopping1_address">Olavinkatu 54</string>
+    <string name="shopping2_address">Tulliportinkatu 10</string>
+    <string name="shopping3_address">Nojanmaantie 15</string>
+    <string name="shopping1_description">Shopping centre downtown, selling sports stuff, clothing, gym equipment. Also postal office, is in the building. </string>
+    <string name="shopping2_description">K-citymarket supermarket, pharmacy, fast-food restaurants, wholesale market. </string>
+    <string name="shopping3_description">Hypermarket Prisma, pharmacy, restaurants, playing ground for children, flower shops </string>
+
+
+
+</resources>
